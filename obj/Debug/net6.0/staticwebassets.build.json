@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Dbv/ldoit5Yh0+fSj/5kmtp3BbRm/L4+Mb+9Z3s0Dtk=",
+  "Hash": "/U3QeM6WpVTvIOVWz97SC19GmgSOQTWC6n5sXl4gbsk=",
   "Source": "newLabsys",
   "BasePath": "_content/newLabsys",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\SAP\\newLabsys\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\newLabsys.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\SAP\\newLabsys\\wwwroot\\css\\custom.css",
+      "SourceId": "newLabsys",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SAP\\newLabsys\\wwwroot\\",
+      "BasePath": "_content/newLabsys",
+      "RelativePath": "css/custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\custom.css"
     },
     {
       "Identity": "C:\\Users\\SAP\\newLabsys\\wwwroot\\css\\site.css",
